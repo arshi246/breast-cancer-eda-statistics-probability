@@ -174,3 +174,12 @@ The 25-test suite uses synthetic fixtures to verify:
 | Reconciliation table shows `Differs` | Press `C` inside the running Streamlit app to **Clear Cache**, then refresh (`Ctrl+F5`). |
 | Statistical test displays `Not available` | The active sidebar filters leave fewer than 2 groups or insufficient observations. Click **Reset filters**. |
 
+---
+
+## 🌐 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://breast-cancer-outcomes.streamlit.app)
+
+Explore the live interactive dashboard here: **[https://breast-cancer-outcomes.streamlit.app](https://breast-cancer-outcomes.streamlit.app)**
+
+

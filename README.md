@@ -178,8 +178,6 @@ The 25-test suite uses synthetic fixtures to verify:
 
 ## 🌐 Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://breast-cancer-outcomes.streamlit.app)
-
 Explore the live interactive dashboard here: **[https://breast-cancer-outcomes.streamlit.app](https://breast-cancer-outcomes.streamlit.app)**
 
 
